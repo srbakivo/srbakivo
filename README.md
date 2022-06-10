@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @srbakivo
-- 👀 I’m interested in Ionic Angular NodeJs MongoDB Express
-- 🌱 I’m currently learning Mobile Apps
-- 💞️ I’m looking to collaborate on Mobile Apps
-- 📫 How to reach me @srbakivo at any network
+- 👋 @srbakivo
+- 👀 Ionic-Angular-NodeJs-MongoDB-Express
+- 👀 Flutter-Dart
+- 🌱 Mobile Apps
+- 💞️ Collaborate with me on Mobile Apps
 
 <!---
 srbakivo/srbakivo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
