@@ -1,5 +1,5 @@
 - 👋 @srbakivo
-- 👀 Ionic-Angular-NodeJs-MongoDB-Mongoose-Express
+- 👀 Ionic-Angular-NodeJs-MongoDB-MongooseJs-Express
 - 👀 Flutter-Dart
 - 👀 Figma
 - 💞️ Mobile Apps
